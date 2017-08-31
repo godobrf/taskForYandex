@@ -1,2 +1,2 @@
 # testTask
-You can see a test task in task.md
+You can see a description of task in task.md
